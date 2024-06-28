@@ -1,8 +1,10 @@
-git clone https://github.com/EmePin/TensorFlowExpo.git
+Steps:
 
-npm i --force
+1.- git clone https://github.com/EmePin/TensorFlowExpo.git
 
-npm start
+2.- npm i --force
+
+3.- npm start
 
 ----------------
 
